@@ -164,9 +164,10 @@ public class SlotMachineSimulation {
                     System.out.println("You profited $" 
                             + (totalWon-totalEntered) + "!");
                 }
-            }
-
+        }
+            
         }
 
-    }
+}
+    
 }
